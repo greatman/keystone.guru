@@ -122,7 +122,7 @@ In an elevated command prompt (run as administrator) `cd` to where you checked o
 ## Once you're in
 Run this bash to install PhpMyAdmin (skip if you use MySQLWorkbench or anything else to manage your database)
 ```bash
-curl -sS https://raw.githubusercontent.com/grrnikos/pma/master/pma.sh | sh
+curl -sS https://raw.githubusercontent.com/grrnikos/pma/master/pma.sh | bash
 ```
 See https://stackoverflow.com/a/23789879/771270 for more info.
 
