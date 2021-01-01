@@ -81,6 +81,7 @@ sites:
       to: /home/vagrant/phpmyadmin
     - map: keystone.test
       to: /home/vagrant/Git/keystone.guru/public
+      php: "7.4"
 
 databases:
     - homestead
